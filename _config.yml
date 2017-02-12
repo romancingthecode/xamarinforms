@@ -3,13 +3,13 @@ title: Xamarin Forms Tutorials
 header-img: img/home-bg.jpg
 email: romancingthecode@gmail.com
 copyright_name: Romancing the Code
-description: "Write your site description here. It will be used as your sites meta description as well!"
+description: "Loves to share some tutorials on xamarin forms,MVVM,Xaml"
 baseurl: "/xamarinforms"
 url: "http://xamarinforms.info"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  StartBootstrap
-email_username:  your-email@yourdomain.com
+twitter_username: romancingthecode
+github_username:  romancingthecode
+facebook_username:  romancingthecode
+email_username:  romancingthecode@gmail.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
