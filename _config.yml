@@ -1,11 +1,11 @@
 # Site settings
-title: Clean Blog
+title: Xamarin Forms Tutorials
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-copyright_name: Your/Project/Corporate Name
+email: romancingthecode@gmail.com
+copyright_name: Romancing the Code
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: "/xamarinforms"
-url: "http://yourdomain.com"
+url: "http://xamarinforms.info"
 twitter_username: SBootstrap
 github_username:  davidtmiller
 facebook_username:  StartBootstrap
